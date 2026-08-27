@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'apps.accounts',
     'apps.candidates',
     'apps.careers',
+    'apps.services',
 ]
 
 AUTH_USER_MODEL = "accounts.User"
