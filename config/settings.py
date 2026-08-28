@@ -46,6 +46,8 @@ INSTALLED_APPS = [
     'apps.communications',
     'apps.mentorship',
     'apps.jobs',
+    'apps.notifications',
+    'apps.reporting',
 ]
 
 AUTH_USER_MODEL = "accounts.User"
